@@ -1,2 +1,22 @@
-# prework-study-guide
-A study guide to course prework
+# Prework Study Guide Webpage
+
+## Descriptioin
+
+This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
+
+## Installation
+
+N/A
+
+## Usage
+
+Each section contains notes about a certain topic, like HTML, CSS, JavaScript, Git. And if we open the DevTools console, we can see the JavaScript running. It will list the topics we learned from prework and choose one topic for us to study first.
+
+## Credits
+
+www.softwarervg.com
+https://nfl-teams.net/wp-content/uploads/2020/07/Seattle-Seahawks-Emblem-768x514.jpg
+
+## License
+
+Please refer to the LICENSE in the repo.
